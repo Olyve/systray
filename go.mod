@@ -1,4 +1,4 @@
-module git.sr.ht/~avery/systray
+module github.com/Olyve/systray
 
 go 1.13
 
